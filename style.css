@@ -1,0 +1,23 @@
+#myname{
+	background-color: purple;
+	color:white;
+	text-align: center;
+
+}
+#myschool{
+	background-color: blue;
+	color: white;
+	text-align: center;
+	font-family: Arial
+}
+#list {
+	text-align: center;
+	font-family: Arial
+
+}
+
+body
+{
+	background-color: gray
+	
+}
